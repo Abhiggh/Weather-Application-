@@ -9,4 +9,18 @@ This project demonstrates how to consume a public REST API, handle JSON response
 - API: OpenWeatherMap API (REST)
 - Concepts: API Integration, JSON Parsing, Responsive Design, DOM Manipulation
 
+# ✨ Features
+✅ Real-time weather data for any city worldwide
+✅ Displays temperature, humidity, wind speed, weather condition
+✅ Responsive UI — works on desktop and mobile
+✅ Live API data fetched using JavaScript Fetch API
+✅ Clean and intuitive user interface
+
+# How It Works
+- Step 1 → User enters city name in search box
+- Step 2 → JavaScript sends request to OpenWeatherMap API
+- Step 3 → API returns live weather data in JSON format
+- Step 4 → Data is parsed and displayed on the UI
+- Step 5 → UI updates dynamically without page reload
+
 
