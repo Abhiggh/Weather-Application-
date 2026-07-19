@@ -10,11 +10,11 @@ This project demonstrates how to consume a public REST API, handle JSON response
 - Concepts: API Integration, JSON Parsing, Responsive Design, DOM Manipulation
 
 # ✨ Features
-*✅ Real-time weather data for any city worldwide
-*✅ Displays temperature, humidity, wind speed, weather condition
--✅ Responsive UI — works on desktop and mobile
--✅ Live API data fetched using JavaScript Fetch API
--✅ Clean and intuitive user interface
+- ✅ Real-time weather data for any city worldwide
+- ✅ Displays temperature, humidity, wind speed, weather condition
+- ✅ Responsive UI — works on desktop and mobile
+- ✅ Live API data fetched using JavaScript Fetch API
+- ✅ Clean and intuitive user interface
 
 # How It Works
 - Step 1 → User enters city name in search box
